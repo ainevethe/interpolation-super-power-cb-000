@@ -3,6 +3,6 @@
 
 def display_rainbow(colors)
 
-  puts rainbow
+  puts "R: #{[0]}, O: #{[1]}"
 
 end
